@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automatio Test]">
+  <test name="Smoke Testcases(failed)">
+    <classes>
+      <class name="pageobjecttestcases.SampleTest">
+        <methods>
+          <include name="LoginApp"/>
+        </methods>
+      </class> <!-- pageobjecttestcases.SampleTest -->
+    </classes>
+  </test> <!-- Smoke Testcases(failed) -->
+</suite> <!-- Failed suite [Automatio Test] -->
